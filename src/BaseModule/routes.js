@@ -1,5 +1,5 @@
-import demoRoutes from '../demoModule/routes';
+import Proyectos from '../Proyectos/routes';
 
 export default [
-	...demoRoutes
+	...Proyectos
 ];
